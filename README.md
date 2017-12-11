@@ -3,6 +3,7 @@ Voronezh webperf tools talk stuff.
 # Links
 ## Tools
 ### Synthetic
+- [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) and here's a [shiny version for your boss](https://testmysite.withgoogle.com/intl/en-gb)
 - [GTmetrix](https://gtmetrix.com/)
 - [Pingdom](https://tools.pingdom.com/)
 - [WebPageTest](https://www.webpagetest.org/) (WPT)
