@@ -19,7 +19,7 @@ Voronezh webperf tools talk stuff.
 - [Taki](https://takiapp.com/) (disc: I'm on the team 🙋🏻)
 
 # Slides
-TBD
+[slideshare](https://www.slideshare.net/EugeneChekan/webperf-the-missing-manual-vrn)
 
 # Other links
 [Critical rendering path Udacity course by Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) ([GitHub](https://github.com/igrigorik))
