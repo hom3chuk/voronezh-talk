@@ -22,7 +22,7 @@ Voronezh webperf tools talk stuff.
 TBD
 
 # Other links
-[Critical rendering path Udacity course by Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) [GitHub](https://github.com/igrigorik)
+[Critical rendering path Udacity course by Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) ([GitHub](https://github.com/igrigorik))
 
 # Snippets
 ## Enable 100% sampling for RUM in GA
