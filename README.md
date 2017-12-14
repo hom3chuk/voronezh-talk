@@ -1,6 +1,9 @@
 Voronezh webperf tools talk stuff.
 
 # Links
+## Why?
+[Google article with some links to research](https://www.thinkwithgoogle.com/marketing-resources/experience-design/mobile-page-speed-load-time/)
+
 ## Tools
 ### Synthetic
 - [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) and here's a [shiny version for your boss](https://testmysite.withgoogle.com/intl/en-gb)
@@ -19,7 +22,7 @@ Voronezh webperf tools talk stuff.
 TBD
 
 # Other links
-[Critical rendering path Udacity course by Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+[Critical rendering path Udacity course by Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) [GitHub](https://github.com/igrigorik)
 
 # Snippets
 ## Enable 100% sampling for RUM in GA
