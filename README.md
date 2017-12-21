@@ -19,6 +19,7 @@ Voronezh webperf tools talk stuff.
 - [Taki](https://takiapp.com/) (disc: I'm on the team 🙋🏻)
 
 # Slides
+[Online version](https://hom3chuk.github.io/voronezh-talk/index.html)
 [slideshare](https://www.slideshare.net/EugeneChekan/webperf-the-missing-manual-vrn)
 [Keynote app file](https://github.com/hom3chuk/voronezh-talk/blob/master/voronezh.key)
 
